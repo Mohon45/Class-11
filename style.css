@@ -1,0 +1,36 @@
+.box {
+  width: 500px;
+  border: 3px solid green;
+  border-radius: 20px;
+  margin: auto;
+  padding: 10px;
+  background-color: #d1d1d1;
+  box-shadow: 10px 10px 30px gray;
+}
+.box:hover {
+  background-color: #b667f1;
+  color: black;
+}
+h1 {
+  text-align: center;
+  color: red;
+}
+h4 {
+  text-align: center;
+  color: black;
+}
+span {
+  color: blue;
+}
+
+.box-2 {
+  width: 600px;
+  color: #b667f1;
+  border: 3px solid blue;
+  text-align: justify;
+  padding-left: 20px;
+  margin-left: 20px;
+}
+.heading {
+  font-size: 50px;
+}
